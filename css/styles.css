@@ -1,0 +1,16 @@
+.intro-section {
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: lighter;
+}
+
+
+.red-favorite {
+color: red;
+font-style: italic;
+}
+.ending-section {
+  font-style: oblique;
+  font-weight:bolder;
+  color: green;
+}
